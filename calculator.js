@@ -71,13 +71,9 @@ export default class Calculator {
         this.outPut.innerHTML=this.currentOutput;
     }
 
-    Display(){
-        
-        
-    }
+   
 }
 
-//export default _Calculator();
 
 
 
@@ -99,7 +95,3 @@ export default class Calculator {
 
 
 
-
-export function hithere(){
-    alert('hi there');
-}
