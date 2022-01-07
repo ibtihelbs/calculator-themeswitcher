@@ -1,6 +1,6 @@
 
 
-export default class Calculator {
+export class Calculator {
 
     constructor(outPut,latestOuput){
       this.outPut=outPut;
