@@ -1,4 +1,4 @@
-import Calculator from '/calculator.js';
+import {Calculator} from '/calculator.js';
 let Numbers=document.querySelectorAll('[data-value="number"]');
 let Operator=document.querySelectorAll('[data-value="operator"]');
 
