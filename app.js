@@ -64,7 +64,9 @@ Delete.addEventListener('click',(button)=>{
 
 
 
-/**theme swiching */
+/**theme swiching 
+part-------
+*/
 let the_swisher=document.querySelector('.the-swisher');
 
 the_swisher.addEventListener("click",(f)=>{
