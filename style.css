@@ -177,12 +177,15 @@ main > * {
   box-shadow: 0 2px 0 0 var(--key-shadow-background);
 }
 @media(max-width:350px){
+ 
   body{
-    max-height:400px;
+    height:300px;
+    margin-top: -50px;
+   
   }
   main{
     width:80%;
-  
+    
     height: 30%;
   }
 
