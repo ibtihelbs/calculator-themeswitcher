@@ -175,3 +175,14 @@ main > * {
   background-color: var(--key-background);
   box-shadow: 0 2px 0 0 var(--key-shadow-background);
 }
+@media(max-width:350px){
+  body{
+    max-height:600px;
+  }
+  main{
+    width:30%;
+  
+  }
+
+
+}
